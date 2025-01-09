@@ -119,7 +119,7 @@ SPECTRUM = False
   └──────────────────────────────────────────────────────────────────────────┘
 """
 
-path = r'C:\Users\Lisa\Desktop\Uni\Bachelorarbeit\mai\Filme\2024-05-24\11-10-14\data_11-10-14.h5' #nicht �ndern au�er f�r andere Referenzdatei, maybe ohne beschriftung?
+path = r'C:\Users\Lisa\Desktop\Uni\Bachelorarbeit\mai\Filme\2024-05-24\11-10-14\data_11-10-14.h5' #nicht �ndern au�er f�r andere Referenzdatei, maybe ohne beschriftung?
 
 pic_file = ["intensity_map", "intensity_xy"]
 
